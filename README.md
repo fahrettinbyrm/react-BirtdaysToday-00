@@ -5,6 +5,6 @@ useState-Example Component work.
 
 npm start
 
-# Drict Link
+# Direct Link
 
 https://birtdaylist00.netlify.app
